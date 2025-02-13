@@ -1,0 +1,8 @@
+/.clj-kondo
+/.lsp
+/.env
+/.cp-cache
+/.cpcache
+/.calva
+/.portal
+/.vscode

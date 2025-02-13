@@ -1,0 +1,14 @@
+{
+  "description" : "shim for the use of stx_log without needing the library",
+  "tags" : [ "cross", "functional" ],
+  "license" : "MIT",
+  "name" : "stx_log_shim",
+  "releasenote" : "initial",
+  "contributors" : [ "0b1kn00b" ],
+  "url" : "https://github.com/ohmrun/stx_log_shim",
+  "classPath" : "src/main/haxe",
+  "version" : "0.1.0",
+  "dependencies" : { 
+    "stx_pico" : ""
+  }
+}
