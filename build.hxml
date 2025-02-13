@@ -1,4 +1,7 @@
 -cp src/main/haxe
+-lib stx_pico
+-lib stx_pkg
+-lib stx_nano
 -D analyzer-optimize
 -main Main
 --interp

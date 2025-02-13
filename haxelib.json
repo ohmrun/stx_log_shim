@@ -9,6 +9,7 @@
   "classPath" : "src/main/haxe",
   "version" : "0.1.0",
   "dependencies" : { 
-    "stx_pico" : ""
+    "stx_pico" : "",
+    "stx_pkg" : ""
   }
 }
